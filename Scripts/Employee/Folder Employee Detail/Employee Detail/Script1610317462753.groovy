@@ -27,7 +27,7 @@ WS.verifyElementPropertyValue(response, 'data.lastName', 'Riwendi')
 
 WS.verifyElementPropertyValue(response, 'data.code', 777)
 
-WS.verifyElementPropertyValue(response, 'data.employeeId', 243)
+WS.verifyElementPropertyValue(response, 'data.employeeId', 242)
 
 WS.verifyElementPropertyValue(response, 'data.fullName', 'Muhammad Ariansyah Riwendi')
 
