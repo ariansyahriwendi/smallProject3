@@ -38,7 +38,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>${GlobalVariable.baseURL}/api/v1/employee/243</restUrl>
+   <restUrl>${GlobalVariable.baseURL}/api/v1/employee/242</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
